@@ -24,7 +24,7 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Peak%20Hours%20in%20August.png)
 
 * Checkout Times
-  * It looks like we have a most of customers that do take a bike-share for more than an hour.  Generally it's about 40 mins, probably traveling to work or a short destination. We know that most of the bike-shares are unknown, then female come after.  
+  * It looks like we havea most of customers that do take a bike-share for more than an hour.  Generally it's about 40 mins, probably traveling to work or a short destination. We know that most of the bike-shares are unknown, then female come after.  
   *  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Checkout%20Time%20by%20Users.png)
   *  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Checkout%20Times%20by%20Gender.png)
 * Gender Breakdown: 
