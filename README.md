@@ -10,7 +10,7 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 # Results: 
 * Gender breakdown: 
 
-** There are more males than females utilizing the bike-sharing program.
+ *  There are more males than females utilizing the bike-sharing program.
 ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Gender_Breakdown.png)
 
 * User Type: 
@@ -34,7 +34,7 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20By%20weekday.png)
  
 * Summary: 
- ** At a high-level, we know most of the NYC bike-sharing are mainly men subscribers.  They are utilizing the bike-sharing for commuting purposes, either going to or from work.  
+ * At a high-level, we know most of the NYC bike-sharing are mainly men subscribers.  They are utilizing the bike-sharing for commuting purposes, either going to or from work.  
  
  Additional Visualizations: 
  1. I would visualize the age groups of the gender to see if we would need to boost up marketing campaigns to a certain group or if there's a missing gap within the male population. 
