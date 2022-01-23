@@ -14,7 +14,7 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Gender_Breakdown.png)
 
 * User Type: 
-  * Most of the customers are subscribers which is key to knowing that we have returning customers.  Also, when looking at the gender breakdown, we know that men are our subscribers.  This is an opportunity to learn and discover how we can attract women into the subscriber pool. 
+  * Most of the customers are subscribers which is key to knowing that we have returning customers.  Also, when looking at the gender breakdown, we know that men are our subscribera, which was obvious from the above gender breakdown. This is an opportunity to learn and discover how we can attract more women in Des Moines since this would be key to growing the business. 
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Annual%20Subscribers.png)
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/User%20Type%20by%20Gender.png)
  * Peak Times: 
