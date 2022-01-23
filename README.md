@@ -15,18 +15,23 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 
 * User Type: 
   * Most of the customers are subscribers which is key to knowing that we have returning customers.  Also, when looking at the gender breakdown, we know that men are our subscribers.  This is an opportunity to learn and discover how we can attract women into the subscriber pool. 
- 
+ ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Annual%20Subscribers.png)
+ https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/User%20Type%20by%20Gender.png
  * Peak Times: 
   * If we are looking at times to have maintenance or lower the employee count, we can look at early in the morning or later in the evening.  Our peak times are within 7am - 7pm.  This is a clear indication that we would need to have more staff during these hours. 
+![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Peak%20Hours%20in%20August.png)
 
 * Checkout Times
   * It looks like we have a most of customers that do take a bike-share for more than an hour.  Generally it's about 40 mins, probably traveling to work or a short destination. We know that most of the bike-shares are unknown, then female come after.  
+  * https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Checkout%20Time%20by%20Users.png
+  * https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Checkout%20Times%20by%20Gender.png
 * Gender Breakdown: 
   * Most of the men travel around 8am and 6pm, most likely either going to work or coming home from work. 
-
+https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20by%20Gender.png
+https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20By%20weekday.png
 * Number of Trips
   * Majority of the times seems to be during when people are going to or coming from work. 
-
+https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20By%20weekday.png
 * Summary: 
  ** At a high-level, we know most of the NYC bike-sharing are mainly men subscribers.  They are utilizing the bike-sharing for commuting purposes, either going to or from work.  
  
