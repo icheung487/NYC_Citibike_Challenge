@@ -7,10 +7,10 @@
 # Overview: 
 The purpose of this challenge was to utilize the NYC data to find trends that would help convince investors that a bike-sharing business is a solid business proposal for Des Moines. For this analysis, we needed to find trends based on time, gender, start and end time.  This would help us find possible similar trends to Des Moines and things to look out for when staring this business. 
 
-# Results: 
+# Results of Each Worsheet:
 * Gender breakdown: 
 
-  *  There are more males than females utilizing the bike-sharing program.
+  *  There are more males than females utilizing the bike-sharing program.  In the chart below, it's clear that there are more than 50% of customers that are male, which is a clear indication that more men tend to utilize the bike-sharing service. 
 ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Gender_Breakdown.png)
 
 * User Type: 
