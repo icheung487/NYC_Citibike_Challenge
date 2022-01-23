@@ -10,7 +10,7 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 # Results: 
 * Gender breakdown: 
 
- *  There are more males than females utilizing the bike-sharing program.
+  *  There are more males than females utilizing the bike-sharing program.
 ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Gender_Breakdown.png)
 
 * User Type: 
