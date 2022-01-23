@@ -25,6 +25,11 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
 * Number of Trips
   * Majority of the times seems to be during when people are going to or coming from work. 
 
-Results: Using the visualizations you have in your Tableau Story, describe the results of each visualization underneath the image.
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset
-
+* Summary: 
+ ** At a high-level, we know most of the NYC bike-sharing are mainly men subscribers.  They are utilizing the bike-sharing for commuting purposes, either going to or from work.  
+ 
+ Additional Visualizations: 
+ 1. I would visualize the age groups of the gender to see if we would need to boost up marketing campaigns to a certain group or if there's a missing gap within the male population. 
+ 2. There was a huge spike of "unknown" users, so I would want to visualize where they customers are traveling.  This would help to see if we are looking at actual NY customers or visitors coming for the day. 
+ 3. Visualize where we can possibilty attract more women in the mix to increase awareness about bike-sharing.  We would need to see where they are less travel trips by gender.  
+ 
