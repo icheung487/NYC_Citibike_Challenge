@@ -29,11 +29,11 @@ The purpose of this challenge was to utilize the NYC data to find trends that wo
   *  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Checkout%20Times%20by%20Gender.png)
 * Gender Breakdown: 
   * Most of the men travel around 8am and 6pm, most likely either going to work or coming home from work. 
-  * 
+  
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20by%20Gender.png)
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20By%20weekday.png)
 * Number of Trips
-  * Majority of the times seems to be during when people are going to or coming from work. 
+  * Majority of the times seems to be during when people are going to or coming from work. What's interesting to see is that there are still customers on Saturday, which show an opportunity to expand the number of trips here.  It could be from people still working or new visiting we are unaware of.  
  ![image](https://github.com/icheung487/NYC_Citibike_Challenge/blob/main/Trips%20By%20weekday.png)
  
 * Summary: 
